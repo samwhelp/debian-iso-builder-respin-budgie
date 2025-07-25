@@ -48,9 +48,9 @@ budgie-brightness-controller-applet
 
 
 
-upower
-gnome-power-manager
-power-profiles-daemon
+#upower
+#gnome-power-manager
+#power-profiles-daemon
 
 
 nemo
